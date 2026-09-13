@@ -1,7 +1,7 @@
 ﻿<img width=100% alt=qvost-banner src=./banner.png />
 
-## I'm Siddid. I make symbols dance until they mean something
-  In a world of infinite entropy, we build small pockets of deterministic elegance.
+## I'm Siddid. I build.
+  In a world of infinite entropy, we craft small pockets of deterministic elegance.
 
 <p align=center>
   <samp>
