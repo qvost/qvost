@@ -1,7 +1,7 @@
 ﻿<img width=100% alt=qvost-banner src=./banner.png />
 
 ## I'm Siddid. I build.
-  In a world of infinite entropy, we craft small pockets of deterministic elegance.
+  In a world of infinite entropy, I craft small pockets of deterministic elegance.
 
 <p align=center>
   <samp>
