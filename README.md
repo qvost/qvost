@@ -4,11 +4,6 @@
 
 i build systems @ [shaligram labs](https://github.com/qvost/shaligram-labs).
 
-```text
-stack  :: rust, c23, linux/ebpf, avx-512, arm neon
-focus  :: lock-free concurrency, memory reclamation, cache locality
-```
-
 <p align="center">
   <samp>
     <a href="https://qvost.vercel.app">web</a> /
